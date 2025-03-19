@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  body{
+    background-color: #5A5353;
+    color: aliceblue;
+    margin-left: 30px;
+    margin-bottom: 60px;
+  }
+  .flex{
+    display: flex;
+    align-items:center;
+    padding: 20px;
+  }
+
+  .flex-tab{
+    background-color: #685C4D;
+    display: flex;
+    flex-direction: row;
+    align-items:flex-start;
+    justify-content: flex-start;
+    height: 120px;
+    
+  }
+
+header img {
+width: 325px;
+
+}
+
+nav img{
+  width: 300px;
+
+}
+
+.about {
+display: inline-block; 
+background-color: #8C624B;
+color: aliceblue;
+font-family: Kalnia;
+font-size: 48px;
+text-decoration: none;
+padding: 8px 16px;
+margin-left: 60px;
+margin-top: 8px;
+}
+
+.button {
+  display: inline-block; 
+  color: #FFF;
+  background-color: #8C624B;
+  text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Kalnia;
+  font-size: 40px;
+  text-decoration: none;
+  padding: 10px 70px;
+  margin-left: 50px;
+  margin-top: 35px;
+  }
+
+.title{
+  background-color: #414141;
+  font-family: Kalnia;
+  font-size: 24px;
+  text-decoration: none;
+  padding: 8px 16px;
+  margin-left: 0;
+  margin-top: 8px;
+  margin-bottom: 8px;
+
+}
+
+a{
+padding-right: 10px;
+
+}
+
+b{
+  font-size: larger;
+}
+
+.long{
+  width: 1300px;
+  margin-bottom: 30px;
+}
+
+.about-img{
+  height: 10px;
+  margin-bottom: 30px;
+
+}
+
+.main-text{
+  
+  color: #FFF;
+  font-family: K2D;
+  font-size: 18px;
+  font-style: normal;
+  line-height: normal;
+  text-align: left;
+  padding: 10px;
+  
+}
+
+.about-text{
+  background-color: #776749,0.7 ;
+  font-family: K2D;
+  font-size: 26px;
+  text-align: center;
+  width: 900px;
+  height: 400px;
+  padding: 30px;
+  margin-top: 50px;
+  margin-left: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.right-text{
+  
+  font-family: K2D;
+  font-size: 26px;
+  text-align: left;
+  width: 674px;
+  height: 400px;
+  padding: 10px;
+}
+
+.left-text{
+  font-family: K2D;
+  font-size: 26px;
+  text-align: left;
+  width: 674px;
+  height: 400px;
+  padding: 10px;
+}
+
+  h1{
+    text-align: center;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Kalnia;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+
+
+
+ 
+
